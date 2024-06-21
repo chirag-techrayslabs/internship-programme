@@ -6,10 +6,9 @@ Welcome to the PHP training section of our Intern Training Program. This section
 
 0. Setup PHP Development Environment [https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu]
 1. Watch the [PHP For Beginners - Complete Laracasts Course](https://www.youtube.com/watch?v=fw5ObX8P6as).
-2. Set up your development environment (e.g., XAMPP, MAMP, or a custom PHP server).
-3. Follow along with the course to build a foundational understanding of PHP.
-4. Begin working on the To-Do List project. Use the knowledge from the course to implement the basic features listed above.
-5. After completing the To-Do List project, start working on the Complaint Management System project.
+2. Follow along with the course to build a foundational understanding of PHP.
+3. Begin working on the To-Do List project. Use the knowledge from the course to implement the basic features listed above.
+4. After completing the To-Do List project, start working on the Complaint Management System project.
 
 ## Resources
 
