@@ -4,7 +4,7 @@ Welcome to the PHP training section of our Intern Training Program. This section
 
 ## Getting Started
 
-0. Setup PHP Development Environment [https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu]
+0. Setup [PHP Development Environment](https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu)
 1. Watch the [PHP For Beginners - Complete Laracasts Course](https://www.youtube.com/watch?v=fw5ObX8P6as).
 2. Follow along with the course to build a foundational understanding of PHP.
 3. Begin working on the To-Do List project. Use the knowledge from the course to implement the basic features listed above.

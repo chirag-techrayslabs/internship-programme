@@ -10,9 +10,7 @@ Welcome to the Intern Training Program of Techrays Labs! This repository is desi
 
 ### Before Starting
 
-- [Composer](Other/Composer)
-- [GITL](Other/GIT)
-- [NPM](Other/NPM)
+- [GITL](GIT)
 
 ### Backend
 
