@@ -10,7 +10,7 @@ Welcome to the Intern Training Program of Techrays Labs! This repository is desi
 
 ### Before Starting
 
-- [GITL](GIT)
+- [GIT](GIT)
 
 ### Backend
 
