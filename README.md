@@ -21,11 +21,11 @@ Welcome to the Intern Training Program of Techrays Labs! This repository is desi
 ### Frontend
 
 - [JavaScript](Frontend/JavaScript)
+- [React](Frontend/React)
+- [NextJS](Frontend/NextJS)
 - [jQuery](Frontend/jQuery)
 - [AlpineJS](Frontend/AlpineJS)
-- [NextJS](Frontend/NextJS)
 - [VueJS](Frontend/VueJS)
-- [React](Frontend/React)
 - [Bootstrap](Frontend/Bootstrap)
 - [TailwindCSS](Frontend/TailwindCSS)
 
